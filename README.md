@@ -2,6 +2,8 @@ Jason E. Aten
 ---------------
 j.e.aten@gmail.com
 
+https://github.com/glycerine/cv
+
 Education
 ---------
 University of California, Los Angeles 2008
