@@ -27,6 +27,8 @@ Open Source Projects in Go (Golang)
 
 * https://github.com/gijit/gi - author, Go-to-LuaJIT translator and REPL. Fuses the LuaJIT just-in-time trace-compiler with a port of the GopherJS (Javascript-to-Go) front end to Lua.
 
+* https://github.com/glycerine/go-sliding-window - author, implementation in Go of the famous sliding-window-protocol (the basis for TCP) for reliable streaming.
+
 Software Experience
 ----------
 
