@@ -62,3 +62,11 @@ Quantitative Researcher.  RGM Advisors, LLC. 2008 – 2011.
 - Quantitative modeling, execution strategies.
 - Mentoring and development of research staff
 - R, C++
+
+Software Developer. Rosetta Inpharmatics. Kirkland, WA. 1999 - 2000.
+
+- C++, Hierarchical clustering, Oracle database connectivity, Matlab MEX files.
+
+Software Developer. WRQ. Seattle, WA. 1998.
+
+- Windows software, Microsoft Founation Class (MFC) GUIs.
