@@ -68,8 +68,4 @@ Quantitative Researcher.  RGM Advisors, LLC. 2008 – 2011.
 Software Developer. Rosetta Inpharmatics. Kirkland, WA. 1999 - 2000.
 
 - C++, Linux cluster management. Hierarchical clustering implementations.
-- Oracle database connectivity, Matlab MEX files.
-
-Software Developer. WRQ. Seattle, WA. 1998.
-
-- Windows software, Microsoft Founation Class (MFC) GUIs.
+- Oracle database connectivity, Matlab MEX (C++) code.
