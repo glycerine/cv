@@ -14,7 +14,7 @@ University of Washington, Seattle 1998
 
 B.S. in Computer Science; Pre-Med
 
-Open Source Projects in Go (Golang)
+Open Source Software Porfolio in Go (Golang)
 --------------------------
     
 * https://github.com/glycerine/zygomys - author, pure Go embedded scripting Lisp. 1.3k stars.
@@ -31,7 +31,7 @@ Open Source Projects in Go (Golang)
 
 * https://github.com/glycerine/go-sliding-window - author, implementation in Go of the famous sliding-window-protocol (the basis for TCP) for reliable streaming.
 
-Software Experience
+Experience
 ----------
 
 Quantitative Futures Trader. Trading my own accounts. 2018 – Present.
