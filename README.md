@@ -17,7 +17,7 @@ B.S. in Computer Science; Pre-Med
 Open Source Software Porfolio in Go (Golang)
 --------------------------
     
-* https://github.com/glycerine/zygomys - author, pure Go embedded scripting Lisp. 1.3k stars.
+* https://github.com/glycerine/zygomys - author, pure Go embedded scripting Lisp. 1.4k stars.
 
 * https://github.com/glycerine/greenpack - author, high performance serialization.
 
@@ -36,7 +36,7 @@ Experience
 
 Quantitative Futures Trader. Trading my own accounts. 2018 – Present.
 
-- Futures and options trading research. Simulation software. Technical analysis pipeline. Futures, Black-Scholes; greeks; numerical optimization and coding; Go, Docker.
+- Futures and options trading research. Backtesting, simulation, machine learnign software. Technical analysis pipeline. Futures, Black-Scholes; greeks; numerical optimization and coding; Go, Docker.
 
 Principal Engineer. SauceLabs, San Francisco, CA. 2016 – 2017.
 
