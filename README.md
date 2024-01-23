@@ -16,7 +16,11 @@ B.S. in Computer Science; Pre-Med
 
 Open Source Software Porfolio in Go (Golang)
 --------------------------
-    
+
+* https://github.com/glycerine/rbook and https://github.com/glycerine/embedr - author, embed R into Go.
+
+* https://github.com/glycerine/gocortado - author, port of python Gradient-boosted Decision Tree package to Go.
+
 * https://github.com/glycerine/zygomys - author, pure Go embedded scripting Lisp. 1.4k stars.
 
 * https://github.com/glycerine/greenpack - author, high performance serialization.
