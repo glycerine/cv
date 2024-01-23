@@ -12,7 +12,7 @@ Ph.D. in Biomathematics (statistical genetics focus: Learning Bayesian Networks,
 
 University of Washington, Seattle 1998
 
-B.S. in Computer Science; Pre-Med
+B.S. in Computer Science
 
 Open Source Software Porfolio in Go (Golang)
 --------------------------
