@@ -42,6 +42,10 @@ Software Developer and Data Scientist. Financial time series focus; my firm. 201
 
 - Futures and options trading research. Backtesting, simulation, machine learnign software. Technical analysis pipeline. Futures, Black-Scholes; greeks; numerical optimization and coding; Go, Docker.
 
+Senior Software Engineer. Molecula, Inc. Austin, TX. 2020-2021.
+
+- Go (Golang) development of a bit-map-based database backend, the commercial version of Pilosa. Implemented transactions and benchmarking framework.
+
 Principal Engineer. SauceLabs, San Francisco, CA. 2016 – 2017.
 
 - Time-series and analytics, Elasticsearch for full text search, Golang. I built highly-available distributed systems.
