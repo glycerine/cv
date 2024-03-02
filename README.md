@@ -38,7 +38,7 @@ Open Source Software Porfolio in Go (Golang)
 Experience
 ----------
 
-Software Developer and Data Scientist. Financial time series focus. 2018 – Present.
+Software Developer and Data Scientist. Financial time series focus; my firm. 2018 – Present.
 
 - Futures and options trading research. Backtesting, simulation, machine learnign software. Technical analysis pipeline. Futures, Black-Scholes; greeks; numerical optimization and coding; Go, Docker.
 
